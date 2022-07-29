@@ -3,7 +3,7 @@ I'm from São Paulo, Brazil. I have recently started studying about software dev
 
 🔭 I’m currently working at Mundo Encantado <br/>
 🌱 I’m currently learning Front-end web development <br/>
-📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LetíciaMaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/letícia-maria-a3a6a414/)](https://www.linkedin.com/in/giulianabezerra/)<br/>
+📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LetíciaMaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/letícia-maria-a3a6a414/)](https://www.linkedin.com/in/letícia-maria-a3a6a414b/)<br/>
 🗣️ Languages: Portuguese | Spanish | English <br/>
 
 <div>
